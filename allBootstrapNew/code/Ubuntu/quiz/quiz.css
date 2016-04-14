@@ -1,0 +1,16 @@
+.carousel {
+  height: 400px;
+  margin-bottom: 60px;
+  
+    margin-top: 50px;
+
+}
+.carousel .item {
+  height: 350px;
+  background-color: #777;
+}
+
+.carousel-indicators{
+	background-color: rgb(212, 215, 212);;
+}
+
